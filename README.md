@@ -1,4 +1,12 @@
-### Hi there 👋
+# Allan M. Fernandes
+
+Hello there 👋
+
+I'm a senior software developer, currently focused and working on Magento 2 development but always looking for new technologies, specially what's about web3.0.
+
+I was born and live in Brazil, where I've two beautiful children and a wonderful wife.
+
+Check out my LinkedIn profile: https://www.linkedin.com/in/alnmaiafernandes/
 
 <!--
 **allanmfx/allanmfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
